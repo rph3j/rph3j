@@ -16,5 +16,5 @@ In my free time, I create and run scenarios for tabletop RPGs, such as D&D.
 
 ## 👤 Autor
 
-* :octocat: GitHub: [@rph3j](https://github.com/rph3j)
-* 🌐 LinkedIn: [Piotr Wyrwas](www.linkedin.com/in/piotr-wyrwas-373771282)
+* :octocat: GitHub: [rph3j](https://github.com/rph3j)
+* 🌐 LinkedIn: [Piotr Wyrwas](https://www.linkedin.com/in/piotr-wyrwas-373771282)
