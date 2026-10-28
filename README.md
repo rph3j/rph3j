@@ -1,4 +1,4 @@
-##📣 I'am Piotr!
+## 📣 I'am Piotr!
 *Computer science enthusiast (programmer and creator)*
 I am a junior IT specialist and a programming enthusiast.
 I love building web applications, working with microcomputers, and exploring everything that emerges from the intersection of these two fields.
