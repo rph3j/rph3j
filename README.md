@@ -14,7 +14,8 @@ In my free time, I create and run scenarios for tabletop RPGs, such as D&D.
 * **Bachelor's Project** 🖥️⚡ https://github.com/rph3j/SmartDesk
 
 
-## 👤 Autor
+## 👤 My media
 
 * :octocat: GitHub: [rph3j](https://github.com/rph3j)
 * 🌐 LinkedIn: [Piotr Wyrwas](https://www.linkedin.com/in/piotr-wyrwas-373771282)
+* 💼 Portfolio: [Check my](https://sites.google.com/view/piotrwyrwasportfolio)
